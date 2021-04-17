@@ -1,0 +1,13 @@
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\bin\Debug\netcoreapp3.1\insertion-sort-task.exe
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\bin\Debug\netcoreapp3.1\insertion-sort-task.deps.json
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\bin\Debug\netcoreapp3.1\insertion-sort-task.runtimeconfig.json
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\bin\Debug\netcoreapp3.1\insertion-sort-task.runtimeconfig.dev.json
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\bin\Debug\netcoreapp3.1\insertion-sort-task.dll
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\bin\Debug\netcoreapp3.1\insertion-sort-task.pdb
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\obj\Debug\netcoreapp3.1\insertion-sort-task.csprojAssemblyReference.cache
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\obj\Debug\netcoreapp3.1\insertion-sort-task.AssemblyInfoInputs.cache
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\obj\Debug\netcoreapp3.1\insertion-sort-task.AssemblyInfo.cs
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\obj\Debug\netcoreapp3.1\insertion-sort-task.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\obj\Debug\netcoreapp3.1\insertion-sort-task.dll
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\obj\Debug\netcoreapp3.1\insertion-sort-task.pdb
+C:\Users\Stanislav'\net\insertion-sort-task\insertion-sort-task\obj\Debug\netcoreapp3.1\insertion-sort-task.genruntimeconfig.cache
